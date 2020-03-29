@@ -15,5 +15,7 @@ equation metod returns result depended of what user wanted to calculate.
 
 go methods is a condition that decides if program needs to be continued. 
 
+![](https://raw.githubusercontent.com/JacekKaczmarek10/Intelligent_Calculator/master/Zrzut%20ekranu%20z%202020-03-29%2016-04-08.png)
+
 
  
