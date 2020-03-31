@@ -1,4 +1,4 @@
-This program is in one class called Calculator. 
+This program has got one class called Calculator. 
 This class has got a few methods. 
 
 menu methods is simple instruction.
